@@ -1,0 +1,61 @@
+body {
+  font-size: 100%;
+  font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+}
+
+p {
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: lighter;
+  color: #2d2d2d;
+}
+
+/* TODO: size images manually so this is not necessary */
+img {
+  max-height: 20rem;
+}
+
+/***************** NAV *****************/
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/**************** HERO *****************/
+
+header img {
+  max-height: 6rem;
+}
+
+h1 .logo-w {
+  font-size: 3.5rem;
+}
+
+/**************** ASIDE ****************/
+
+input[type="submit"] {
+  padding: .25rem;
+  background-color: #3D7FCF;
+  border: 1px solid #3D7FCF;
+  border-radius: 5px;
+  font-size: .75rem;
+  color: white;
+}
+
+/*********** PRODUCTS SECTION ***********/
+
+section {
+  padding: 0 .75rem;
+}
+
+h2 {
+  padding-top: 1.5rem;
+  font-size: 2rem;
+  text-align: center;
+  color: #2d2d2d;
+}
+
+h3 {
+  font-size: 1.2rem;
+  text-align: center;
+  color: #2d2d2d;
+}
