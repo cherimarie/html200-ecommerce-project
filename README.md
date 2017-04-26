@@ -1,6 +1,6 @@
 # Description
 
-This is an assignment to build a responsive ecommerce web page. Product information is in array of JSON objects. Nav and product container div will use flexbox. Sidebar/aside is a module that changes layout and location based on window size. Clicking a product's “add to cart” or “remove from cart” button updates cart count at top. User can sort items by selecting an attribute and submitting the form at top of page. Product images are served at appropriate sizes for user's device.
+This is an assignment to build a responsive ecommerce web page. Nav and product container div will use flexbox. Sidebar/aside is a module that changes layout and location based on window size. Submitting the mailing list signup form results in user feedback on the page. Clicking a product's “add to cart” or “remove from cart” button updates cart count at top. 
 
 Students may use the provided mockups to guide their design to whatever extent they like. Matching the mockups is not required.
 
@@ -46,7 +46,7 @@ Lesson 09:
   - Write Javascript that displays the friendly message on form submit in the page, not in the console. 
   - Update the HTML and CSS as necessary to accomodate these changes. 
 
-*Extra Challenge*: Incorporate unit tests! [Guide](https://gist.github.com/cherimarie/8f57a32553382c5b1e5428bd79a13626)
+*Extra Challenge*: Incorporate unit tests with [Qunit](https://qunitjs.com/).
 
 *Extra Challenge*: Code a popup that toggles between hidden and displayed when user clicks on cart icon. It should show information about items in the cart (maybe list of their names, but up to you).
 
