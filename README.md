@@ -45,6 +45,7 @@ Lesson 09:
   - Write Javascript that causes the total number of items in the cart to display next to the cart icon when that total changes. 
   - Write Javascript that displays the friendly message on form submit in the page, not in the console. 
   - Update the HTML and CSS as necessary to accomodate these changes. 
+  - Update the Testing section of this README with your own information.
 
 *Extra Challenge*: Incorporate unit tests with [Qunit](https://qunitjs.com/).
 
@@ -67,3 +68,6 @@ Lesson 09:
 
 ## Grading
 Each weekly assignment will be graded independently. There will not be a final grade for the entire project.
+
+## Testing 
+[update this section with information about the testing steps you took to ensure site quality]
