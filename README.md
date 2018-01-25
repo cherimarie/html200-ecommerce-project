@@ -1,6 +1,6 @@
 # Description
 
-This is an assignment to build a responsive ecommerce web page. Nav and product container div will use flexbox. Sidebar/aside is a module that changes layout and location based on window size. Submitting the mailing list signup form results in user feedback on the page. Clicking a product's “add to cart” or “remove from cart” button updates cart count at top. 
+This is an assignment to build a responsive ecommerce web page. Nav and product container div will use flexbox. Sidebar/aside is a module that changes layout and location based on window size. Submitting the mailing list signup form results in user feedback on the page. Clicking a product's “add to cart” or “remove from cart” button updates cart count at top.
 
 Students may use the provided mockups to guide their design to whatever extent they like. Matching the mockups is not required.
 
@@ -14,21 +14,20 @@ Students may use the provided mockups to guide their design to whatever extent t
 
 ## Assignments
 
-Lesson 04:
+Lesson 03:
 
   - Make design decisions about how you'd like your site to look. You can use the provided mockups to guide your design to whatever extent you'd like- feel free to implement them exactly or make up your own design completely.
-  - Code basic CSS for page. `reset.css` file should remain as it is. `main.css` file can be added to, changed, or completely redone. 
-  - `nav ul` and `.item-container` elements should be styled as flexbox containers. Implement a responsive grid system of your own design, or use a library, or don't use a grid at all. Be sure all important size values are proportional (em, rem, %). 
+  - Code basic CSS for page. `reset.css` file should remain as it is. `main.css` file can be added to, changed, or completely redone.
+  - `nav ul` and `.item-container` elements should be styled as flexbox containers. Implement a responsive grid system of your own design, or use a library, or don't use a grid at all. Be sure all important size values are proportional (em, rem, %).
   - We'll continue working on the CSS for this project throughout the course, in particular making it more responsive. The styling does not have to be perfect after this assignment. It's fine to change or add to the HTML as necessary for your styling.
 
-
-Lesson 05: 
+Lesson 05:
 
   - Write a JS form handler function to be triggered on form submit. It should print to the console a friendly message that includes the value of the form element with name "email". Something like "Thanks for signing up for our mailing list, bobross@example.com!"
 
 Lesson 06:
 
-  - Serve appropriately sized images. Use GIMP or another photo-editing program to resize all images to more reasonable, consistent dimensions. This includes product images, the logo, and any background or other images you've included. 
+  - Serve appropriately sized images. Use GIMP or another photo-editing program to resize all images to more reasonable, consistent dimensions. This includes product images, the logo, and any background or other images you've included.
 
 Lesson 07:
 
@@ -42,9 +41,9 @@ Lesson 08:
 
 Lesson 09:
 
-  - Write Javascript that causes the total number of items in the cart to display next to the cart icon when that total changes. 
-  - Write Javascript that displays the friendly message on form submit in the page, not in the console. 
-  - Update the HTML and CSS as necessary to accomodate these changes. 
+  - Write Javascript that causes the total number of items in the cart to display next to the cart icon when that total changes.
+  - Write Javascript that displays the friendly message on form submit in the page, not in the console.
+  - Update the HTML and CSS as necessary to accomodate these changes.
   - Update the Testing section of this README with your own information.
 
 *Extra Challenge*: Incorporate unit tests with [Qunit](https://qunitjs.com/).
@@ -55,7 +54,7 @@ Lesson 09:
 
 *Extra Challenge*: Use browser storage to save details about a user's cart so when they revisit the page, it's in the same state as when they left it. [More about browser storage](https://www.w3schools.com/html/html5_webstorage.asp)
 
-*Extra Challenge*: Dynamically generate the HTML for product listings from the JSON objects in script.js. 
+*Extra Challenge*: Dynamically generate the HTML for product listings from the JSON objects in script.js.
 
 ## Requirements
 
@@ -69,5 +68,5 @@ Lesson 09:
 ## Grading
 Each weekly assignment will be graded independently. There will not be a final grade for the entire project.
 
-## Testing 
+## Testing
 [update this section with information about the testing steps you took to ensure site quality]
